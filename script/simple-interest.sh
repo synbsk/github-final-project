@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   [Sayan Basak](https://github.com/synbsk)
+   # [Sayan Basak](https://github.com/synbsk)
 
    # Input:
    # p, principal amount
